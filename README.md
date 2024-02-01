@@ -1,4 +1,4 @@
-# Pojet n°05 : Le marché du poulet
+# Projet n°05 - Le marché du poulet
 
 **o** Objectif: cibler un groupe de pays en vue d'un développement à l'internationale d'une entreprise agroalimentaire.
 
