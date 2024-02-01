@@ -1,2 +1,2 @@
 # p05-marche-du-poulet
-Projet de forùation
+Projet de formation
